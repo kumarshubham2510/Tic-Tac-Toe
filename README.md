@@ -11,7 +11,7 @@ Welcome to the Tic Tac Toe game! This project is a simple and fun implementation
 - **Real-time updates:** The game board updates in real-time as players make their moves.
 - **Winner detection:** Automatically detects and highlights the winner when a player gets three in a row.
 
-## Installation
+## Installation Steps
 
 To run this project locally, follow these steps:
 
