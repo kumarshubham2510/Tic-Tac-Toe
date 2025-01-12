@@ -1,4 +1,4 @@
-# Tic Tac Toe Game in React.js
+# Tic Tac Toe Game
 
 ## Introduction
 
@@ -19,3 +19,17 @@ To run this project locally, follow these steps:
    ```sh
    git clone https://github.com/kumarshubhams2510/tic-tac-toe-react.git
    ```
+
+2. **Navigate to the project directory:**
+   ```sh
+   git clone https://github.com/kumarshubhams2510/tic-tac-toe-react.git
+   ```
+3. **Install dependencies:**
+   ```sh
+  npm install
+   ```
+4. **Start the development server:**
+   ```sh
+   npm start
+   ```
+
